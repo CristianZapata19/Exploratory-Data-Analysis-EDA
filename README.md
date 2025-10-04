@@ -4,7 +4,7 @@ El presente análisis explora la relación entre el estilo de vida, la salud y l
 
 ---
 
-### 🔍 **Hallazgos Principales**
+### **Hallazgos Principales**
 
 * **Diferencias de Sueño por Género:** Las **mujeres** reportan, en promedio, una mayor duración (7.23 vs. 7.04 horas) y una mejor calidad de sueño (7.66 vs. 6.97 en una escala de 10) en comparación con los hombres del conjunto de datos.
 
