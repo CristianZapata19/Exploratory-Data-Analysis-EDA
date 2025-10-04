@@ -1,7 +1,3 @@
-¡Excelente idea! Utilizar una estructura clara de introducción, hallazgos y conclusiones es la mejor manera de presentar tu trabajo. Basado en tu análisis del dataset de sueño y el ejemplo que me diste, aquí tienes una propuesta para que la adaptes a tu informe final.
-
----
-
 ### **Introducción**
 
 El presente análisis explora la relación entre el estilo de vida, la salud y la calidad del sueño, utilizando el conjunto de datos `Sleep_health_and_lifestyle_dataset.csv`. Se examinan variables clave como la **ocupación**, el **nivel de actividad física**, el **estrés** y los **hábitos diarios** para comprender su impacto en la duración y calidad del sueño de 374 individuos. El objetivo es transformar estos datos en información comprensible que permita identificar los factores que más influyen en un descanso saludable y, con ello, guiar la toma de decisiones hacia un estilo de vida más equilibrado.
