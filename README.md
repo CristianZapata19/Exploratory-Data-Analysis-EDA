@@ -2,8 +2,6 @@
 
 El presente análisis explora la relación entre el estilo de vida, la salud y la calidad del sueño, utilizando el conjunto de datos `Sleep_health_and_lifestyle_dataset.csv`. Se examinan variables clave como la **ocupación**, el **nivel de actividad física**, el **estrés** y los **hábitos diarios** para comprender su impacto en la duración y calidad del sueño de 374 individuos. El objetivo es transformar estos datos en información comprensible que permita identificar los factores que más influyen en un descanso saludable y, con ello, guiar la toma de decisiones hacia un estilo de vida más equilibrado.
 
----
-
 ### **Hallazgos Principales**
 
 * **Diferencias de Sueño por Género:** Las **mujeres** reportan, en promedio, una mayor duración (7.23 vs. 7.04 horas) y una mejor calidad de sueño (7.66 vs. 6.97 en una escala de 10) en comparación con los hombres del conjunto de datos.
@@ -17,8 +15,6 @@ El presente análisis explora la relación entre el estilo de vida, la salud y l
 * **Relación entre Pasos Diarios e IMC:** El análisis muestra que las personas en la categoría de IMC **"Normal"** tienden a registrar un mayor número de pasos diarios en comparación con aquellas en las categorías de **"Sobrepeso"** y **"Obesidad"**.
 
 * **Limitaciones en el Análisis por Edad:** Se concluyó que el tamaño reducido y la alta dispersión de la muestra de datos no permitieron establecer conclusiones definitivas sobre la relación entre el rango de edad y la prevalencia de trastornos del sueño.
-
----
 
 ### **Conclusiones**
 
